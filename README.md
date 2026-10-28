@@ -4,6 +4,7 @@
 [![Repository Size](https://img.shields.io/badge/Archive%20Size-525%20MB-DD0000?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive)
 [![German Umlaut Support](https://img.shields.io/badge/Umlaut%20Support-100%25%20Verified%20(%C3%84%2C%20%C3%96%2C%20%C3%9C%2C%20%C3%9F%2C%20%E1%BA%9E)-FFCC00?style=for-the-badge&logo=checkmarx&logoColor=black)](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive)
 [![Open Source License](https://img.shields.io/badge/License-OFL%20%2F%20Freeware-success?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)
+[![Archive.org](https://img.shields.io/badge/Archive.org-Permanent_Mirror-000000?style=for-the-badge&logo=internet-archive&logoColor=white)](https://archive.org/details/open-typography-foundation-german-fraktur)
 [![GitHub Stars](https://img.shields.io/github/stars/mohammadgolamrabbii/German-Fonts-Mega-Archive?style=for-the-badge&logo=github&color=blue)](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive/stargazers)
 
 > **Wilkommen im umfassendsten Archiv deutscher Typografie weltweit!**  
@@ -14,6 +15,11 @@ Dieses Archiv vereint **5.000 einzigartige, handverlesene Schriftarten (525.29 M
 ---
 
 ## ⚡ Schnell-Download | One-Click Download Options
+
+
+### 🏛️ 0. Internet Archive Lifelong Mirror (Zero Rate-Limits)
+* 📦 **[📥 Download Full German Archive on Archive.org (295 MB ZIP)](https://archive.org/details/open-typography-foundation-german-fraktur)**
+* 🧲 **[BitTorrent Download](https://archive.org/download/open-typography-foundation-german-fraktur/open-typography-foundation-german-fraktur_archive.torrent)**
 
 ### 📦 1. Das gesamte Mega-Archiv mit einem Klick | Complete Mega Archive (1-Click)
 Laden Sie alle **5.000 Schriftarten (525 MB)** als kompakte ZIP-Datei herunter:  
